@@ -1,0 +1,9 @@
+GWAN:
+  PARIS:
+    code: 220
+    region: EUR
+    ip: 192.168.0.220
+  GERMANY:
+    code: 222
+    region: EUR
+    ip: 192.168.0.222
