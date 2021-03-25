@@ -1,0 +1,4 @@
+Switch,Interface,Server,Link,Purpose,VLAN
+PARIS,GigabitEthernet0/3,esxi-01,nic 0,Virtualization Host,trunk
+GERMANY,GigabitEthernet0/3,esxi-01,nic 0,Virtualization Host,trunk
+LONDON,GigabitEthernet0/3,cisco-01,nic 1,Server,Access
